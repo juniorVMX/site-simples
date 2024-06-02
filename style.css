@@ -1,0 +1,34 @@
+.hero-section {
+    background: url('https://source.unsplash.com/800x600/?business-work') no-repeat center center;
+    background-size: cover;
+    color: black;
+    padding: 100px 0;
+  }
+  
+  .service-box {
+    padding: 20px;
+  }
+  
+  .icon {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  .icon-web-design:before {
+    content: '\f013';
+  }
+  
+  .icon-marketing:before {
+    content: '\f0a1'; 
+  }
+  
+  .icon-consulting:before {
+    content: '\f0e0'; 
+  }
+  
+  footer {
+    background: #343a40;
+    color: white;
+    padding: 10px 0;
+  }
+  
